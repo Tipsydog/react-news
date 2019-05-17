@@ -1,0 +1,15 @@
+.app-header-logo{
+    height: 45px;
+    
+    float: left;
+    margin-top: 10px;
+}
+.app-header-menu{
+    float: left;
+    border-bottom: none !important;
+    margin-top: 10px !important;
+    margin-left: 20px !important;
+}
+.app-header-menu-item{
+    width: 145px;
+}
